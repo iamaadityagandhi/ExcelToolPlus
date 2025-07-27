@@ -9,9 +9,3 @@ This is an improved version of the original Excel Tool. It allows you to upload 
 - Supports `.xlsx`, `.xls`, and `.csv` files
 - Clean, simple Streamlit interface
 
-## 📦 How to Run Locally
-Make sure Python is installed, then:
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
